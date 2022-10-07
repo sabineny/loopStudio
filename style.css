@@ -6,7 +6,7 @@ html,body{
     padding: 0px;
 }
 .background{
-    background-image: url(../loop/images/desktop/image-hero.jpg);
+    background-image: url(./images/desktop/image-hero.jpg);
     width: 100%;
     height: 95vh;
 }
@@ -52,7 +52,7 @@ display: none;
     
 }
 .left{
-    background-image: url(../loop/images/desktop/image-interactive.jpg);
+    background-image: url(./images/desktop/image-interactive.jpg);
     
     width: 800px;
      height: 600px;
@@ -189,7 +189,7 @@ display: flex;
 
 @media screen and (max-width:720px) {
   .background{
-    background-image: url(../loop/images/desktop/image-hero.jpg);
+    background-image: url(./images/desktop/image-hero.jpg);
   }  
 nav ol li{
     display: none;
